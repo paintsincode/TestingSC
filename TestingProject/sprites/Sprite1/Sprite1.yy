@@ -67,6 +67,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7bfe2ebf-3f69-4061-b657-faa5e3276c70","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "TestingProject",
     "path": "TestingProject.yyp",
