@@ -2,6 +2,7 @@
   "resources": [
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},"order":13,},
     {"id":{"name":"Note2","path":"notes/Note2/Note2.yy",},"order":15,},
+    {"id":{"name":"Path2","path":"paths/Path2/Path2.yy",},"order":16,},
     {"id":{"name":"Timeline1","path":"timelines/Timeline1/Timeline1.yy",},"order":14,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":12,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":6,},
@@ -52,7 +53,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "23.1.1.279",
+    "IDEVersion": "23.1.1.282",
   },
   "resourceVersion": "1.4",
   "name": "TestingProject",
