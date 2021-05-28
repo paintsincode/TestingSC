@@ -16,6 +16,7 @@
     {"id":{"name":"Sequence1","path":"sequences/Sequence1/Sequence1.yy",},"order":9,},
     {"id":{"name":"Path1","path":"paths/Path1/Path1.yy",},"order":7,},
     {"id":{"name":"Shader1","path":"shaders/Shader1/Shader1.yy",},"order":10,},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":18,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -42,6 +43,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Rooms.yy","order":0,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
@@ -54,7 +56,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "23.1.1.283",
+    "IDEVersion": "23.1.1.284",
   },
   "resourceVersion": "1.4",
   "name": "TestingProject",
